@@ -101,7 +101,7 @@ This data supports rich behavior-based analytics like:
 
 ![Main Dashboard](screenshots/Overview.png)
 
-![Second Page](screenshots/HourlyAndWeekly.png)
+![Second Page](screenshots/HourlyWeekly.png)
 
 ---
 
