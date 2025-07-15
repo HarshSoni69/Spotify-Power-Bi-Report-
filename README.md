@@ -99,7 +99,9 @@ This data supports rich behavior-based analytics like:
 
 > 📍 Add screenshots in a `/screenshots/` folder and embed them like below:
 
-![Main Dashboard](screenshots/spotify-dashboard.png)
+![Main Dashboard](screenshots/Overview.png)
+
+![Second Page](screenshots/HourlyAndWeekly.png)
 
 ---
 
